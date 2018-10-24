@@ -35,7 +35,22 @@ Speaker Recognition using Neural Network &amp; Linear Regression
 
 `MFCC`는 Mel Frequency Cepstrum Coefficient의 약자로서 음성인식 분야에서 널리 사용되는 알고리즘이다. 
 MFCC는 소리의 특징을 추출하는 알고리즘으로서 입력받은 소리를 일반적으로 20ms-40ms정도의 작은 프레임으로 쪼개는 과정을 거치고 이러한 프레임들의 스펙트럼을 분석하여 특징을 추출하는 기법이다. MFCC를 이용한 Features 추출은 음정이 변해도 어느 정도 일정하다는 장점이 있기 때문에 음성인식에 효과적인 알고리즘이다. 아래의 그림은 MFCC의 전체적인  과정이다.
+사람마다 개개인의 고유한 DNA 및 지문을 가지고 있듯이, 각 사람마다 목소리의 고유 주파수, 진폭 등이 다르다는 특성(MFCC)을 이용하여 개인의 신분을 확인 할 수 있는 화자 인식이 가능하다.
 
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/19161231/47408769-98e75400-d79b-11e8-9599-93cc7bdb9b67.png" width="70%">
 </p>
+
+## Project Structure
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/19161231/47409509-ec5aa180-d79d-11e8-9edf-c1c2de89a80a.png">
+</p>
+
+## Data Collection
+| Folder name 	|  Name  	| Number of data 	|
+|:-----------:	|:------:	|:--------------:	|
+|      0      	| 유인나 	|       20       	|
+|      1      	| 배철수 	|       20       	|
+|      2      	| 이재은 	|       20       	|
+|      3      	| 최일구 	|       20       	|
+|      4      	| 문재인 	|       20       	|
