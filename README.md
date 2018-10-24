@@ -4,9 +4,12 @@ Speaker Recognition using Neural Network &amp; Linear Regression
 ## 화자 인식의 종류
 
 ### 화자 검증(Speaker Verification)
-![image](https://user-images.githubusercontent.com/19161231/47407966-69831800-d798-11e8-99d3-f2eee7c8b69b.png)
+<center>
+![image](https://user-images.githubusercontent.com/19161231/47408492-946e6b80-d79a-11e8-8ae1-8d118cbd65da.png)
+</center>
+<center>
 ![image](https://user-images.githubusercontent.com/19161231/47408073-d0083600-d798-11e8-8dc0-23bb62664bb4.png)
-
+</center>
 `화자 검증`은 저장한 화자의 음성과 입력 음성 사이의 유사도(Likelihood)를 이용하여 구한다. 
 즉, 저장되지 않은 목소리, 즉, 사칭 목소리와  ‘유사도 간 비율(Δ)’을 측정한다. 그리고 사칭자 대비 신뢰할 수 있는 비율에 해당하는 ‘기준값(Θ)’에 따라 화자 일치 여부를 검증하게 된다. 이러한 과정으로 시스템은 이를 통해 등록되지 않은 목소리를 구별할 수가 있게 된다.
 
