@@ -48,7 +48,7 @@ MFCC는 소리의 특징을 추출하는 알고리즘으로서 입력받은 소�
 
 ## Data Collection
 <center>
-  <table>
+  <table align="center">
     <tr>
       <th> Folder name </th>
       <th> Name </th>
