@@ -47,37 +47,37 @@ MFCC는 소리의 특징을 추출하는 알고리즘으로서 입력받은 소�
 </p>
 
 ## Data Collection
-<center>
-  <table align="center">
+<p>
+  <table>
     <tr>
       <th> Folder name </th>
       <th> Name </th>
       <th> Number of data </th>
     </tr>
     <tr>
-      <td>0</td>
-      <td>유인나</td>
-      <td>20</td>
+      <td align="center">0</td>
+      <td align="center">유인나</td>
+      <td align="center">20</td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>배철수</td>
-      <td>20</td>
+      <td align="center">1</td>
+      <td align="center">배철수</td>
+      <td align="center">20</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>이재은</td>
-      <td>20</td>
+      <td align="center">2</td>
+      <td align="center">이재은</td>
+      <td align="center">20</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>최일구</td>
-      <td>20</td>
+      <td align="center">3</td>
+      <td align="center">최일구</td>
+      <td align="center">20</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>문재인</td>
-      <td>20</td>
+      <td align="center">4</td>
+      <td align="center">문재인</td>
+      <td align="center">20</td>
     </tr>
   </table>
-</center>
+</p>
