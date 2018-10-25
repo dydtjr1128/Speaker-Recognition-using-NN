@@ -48,11 +48,36 @@ MFCC는 소리의 특징을 추출하는 알고리즘으로서 입력받은 소�
 
 ## Data Collection
 <center>
-| Folder name 	|  Name  	| Number of data 	|
-|:-----------:	|:------:	|:--------------:	|
-|      0      	| 유인나 	|       20       	|
-|      1      	| 배철수 	|       20       	|
-|      2      	| 이재은 	|       20       	|
-|      3      	| 최일구 	|       20       	|
-|      4      	| 문재인 	|       20       	|
+  <table>
+    <tr>
+      <th> Folder name </th>
+      <th> Name </th>
+      <th> Number of data </th>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>유인나</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>배철수</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>이재은</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>최일구</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>문재인</td>
+      <td>20</td>
+    </tr>
+  </table>
 </center>
