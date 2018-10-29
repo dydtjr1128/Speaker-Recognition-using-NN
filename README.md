@@ -93,13 +93,11 @@ MFCC는 소리의 특징을 추출하는 알고리즘으로서 입력받은 소�
     import tensorflow as tf #Use tf.nn
     import numpy as np
     import pandas as pd
-  
  
+</br> 
 <a href="mailto:cys_star@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/E--mail-Yongseok%20choi-yellow.svg">
 </a>
 <a href="https://blog.naver.com/cys_star" target="_blank">
   <img src="https://img.shields.io/badge/Blog-cys__star%27s%20Blog-blue.svg">
 </a>
-
-
