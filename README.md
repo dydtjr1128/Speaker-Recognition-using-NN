@@ -83,17 +83,17 @@ MFCC는 소리의 특징을 추출하는 알고리즘으로서 입력받은 소�
 </p>
 
 ## Library
-
-    import pyaudio #Record audio from mic
-    import wave #Read/Write .wav
-    import os # Access folder
-    import librosa #Calc mfcc
-    import librosa.display #Display mfcc with matplotlib
-    import matplotlib.pyplot as plt # Draw waveform
-    import tensorflow as tf #Use tf.nn
-    import numpy as np
-    import pandas as pd
- 
+```python
+import pyaudio                     # Record audio from mic
+import wave                        # Read/Write .wav
+import os                          # Access folder
+import librosa                     # Calc mfcc
+import librosa.display             # Display mfcc with matplotlib
+import matplotlib.pyplot as plt    # Draw waveform
+import tensorflow as tf            #Use tf.nn
+import numpy as np
+import pandas as pd
+```
 </br> 
 <a href="mailto:cys_star@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/E--mail-Yongseok%20choi-yellow.svg">
