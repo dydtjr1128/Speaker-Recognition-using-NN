@@ -1,6 +1,8 @@
 # Speaker-Recognition-using-NN(화자 인식)
 Speaker Recognition using Neural Network &amp; Linear Regression
 
+독립적인 인물들의 음성데이터를 이용하여 말하는 사람이 누구인지 파악 할 수 있다.
+
 ## 화자 인식의 종류
 
 ### 화자 검증(Speaker Verification)
