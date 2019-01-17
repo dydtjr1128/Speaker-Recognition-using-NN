@@ -96,6 +96,16 @@ import tensorflow as tf            # Use tf.nn
 import numpy as np
 import pandas as pd
 ```
+
+## Result
+![image](https://user-images.githubusercontent.com/19161231/51309001-cc7a0780-1a86-11e9-8907-c6bd87b75382.png)
+<p>
+이재은 아나운서의 목소리 데이터를 넣었을 때 </br>
+2번을 뜻하는 이재은 아나운서일 확률이 약97.8%
+</p>
+
+
+
 </br> 
 <a href="mailto:dydtjr1994@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/E--mail-Yongseok%20choi-yellow.svg">
