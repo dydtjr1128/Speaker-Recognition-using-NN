@@ -97,6 +97,12 @@ import numpy as np
 import pandas as pd
 ```
 
+
+## Learning process
+![image](https://user-images.githubusercontent.com/19161231/51309143-1c58ce80-1a87-11e9-9e6b-c076183d5310.png)
+
+learning late = 0.001, shape[256,256], shape[128,128]을 섞은 총 8개의 Hidden layer를 이용한 학습으로 5개의 클래스에서 최종적으로 97%의 정답률을 보여주었다.
+
 ## Result
 ![image](https://user-images.githubusercontent.com/19161231/51309001-cc7a0780-1a86-11e9-8907-c6bd87b75382.png)
 <p>
